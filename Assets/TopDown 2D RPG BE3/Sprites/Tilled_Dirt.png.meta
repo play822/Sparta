@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 7e59c7bbd4946244299d200c1d555c46
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilled_Dirt_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9873a79202ac5294e9d595236405e39d
+      internalID: 1495842757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilled_Dirt_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2ddf19705902047bbc39a0d5899e37
+      internalID: 282587537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilled_Dirt_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea606ac6011c0c40aca0bd4cdb33df1
+      internalID: -1449991522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilled_Dirt_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d57a89a251dbfd4799a9f4c24908b20
+      internalID: -1879953459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilled_Dirt_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d286a8b247c563446bf96f31068d032a
+      internalID: 1162285059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilled_Dirt_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 50
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36acf2079943045b322d8c8bf640cb
+      internalID: -1272890440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilled_Dirt_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe8c130ed743b49ba053250cf5d6eb
+      internalID: -465850440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tilled_Dirt_0: -1272890440
+      Tilled_Dirt_1: -465850440
+      Tilled_Dirt_10: 496357211
+      Tilled_Dirt_11: 1441292534
+      Tilled_Dirt_12: 905901945
+      Tilled_Dirt_13: -737188966
+      Tilled_Dirt_14: -52808692
+      Tilled_Dirt_15: 2091829518
+      Tilled_Dirt_16: 1324758447
+      Tilled_Dirt_17: 1434277856
+      Tilled_Dirt_18: -1562803699
+      Tilled_Dirt_19: 1255393865
+      Tilled_Dirt_2: -80307991
+      Tilled_Dirt_20: -1648937704
+      Tilled_Dirt_21: -1984389301
+      Tilled_Dirt_22: -1896781726
+      Tilled_Dirt_23: 1187292924
+      Tilled_Dirt_24: 676215668
+      Tilled_Dirt_25: 1344382523
+      Tilled_Dirt_26: -1036377921
+      Tilled_Dirt_27: -215019173
+      Tilled_Dirt_28: 974908447
+      Tilled_Dirt_29: -357364982
+      Tilled_Dirt_3: 1274272622
+      Tilled_Dirt_30: -1737662882
+      Tilled_Dirt_31: 761080157
+      Tilled_Dirt_32: -1331373127
+      Tilled_Dirt_33: -512828116
+      Tilled_Dirt_34: 1495842757
+      Tilled_Dirt_35: -101324025
+      Tilled_Dirt_36: 1523786294
+      Tilled_Dirt_37: 1679733685
+      Tilled_Dirt_38: -89665335
+      Tilled_Dirt_39: -1950501667
+      Tilled_Dirt_4: 320813625
+      Tilled_Dirt_40: -176841546
+      Tilled_Dirt_41: -1703685108
+      Tilled_Dirt_42: 282587537
+      Tilled_Dirt_43: -1449991522
+      Tilled_Dirt_44: -1879953459
+      Tilled_Dirt_45: 1162285059
+      Tilled_Dirt_46: -1571815679
+      Tilled_Dirt_47: 517400157
+      Tilled_Dirt_48: 315085237
+      Tilled_Dirt_49: 614837596
+      Tilled_Dirt_5: 1637484033
+      Tilled_Dirt_50: -1238492496
+      Tilled_Dirt_51: 1355448104
+      Tilled_Dirt_52: 145407785
+      Tilled_Dirt_53: -424581165
+      Tilled_Dirt_54: -1951018553
+      Tilled_Dirt_55: -1617062711
+      Tilled_Dirt_56: -935669040
+      Tilled_Dirt_57: 699722994
+      Tilled_Dirt_58: -1342694017
+      Tilled_Dirt_59: -457788060
+      Tilled_Dirt_6: 826543601
+      Tilled_Dirt_60: -441358342
+      Tilled_Dirt_61: -143596059
+      Tilled_Dirt_62: 2014240162
+      Tilled_Dirt_63: 1435799089
+      Tilled_Dirt_64: -1205604140
+      Tilled_Dirt_65: -940231786
+      Tilled_Dirt_66: -1114771432
+      Tilled_Dirt_67: -1517477428
+      Tilled_Dirt_68: 262696060
+      Tilled_Dirt_69: 1826364806
+      Tilled_Dirt_7: 537007411
+      Tilled_Dirt_70: -270976796
+      Tilled_Dirt_8: -1823613152
+      Tilled_Dirt_9: 1018217988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
