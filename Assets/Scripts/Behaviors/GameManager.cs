@@ -7,6 +7,14 @@ public class GameManager : MonoBehaviour
     public DataManager dataManager;
     public GameObject character1;
     public GameObject character2;
+    
+    protected GameManager instance = null;
+
+    private void Awake()
+    {
+        if (instance == null)
+            instance = this; 
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +26,7 @@ public class GameManager : MonoBehaviour
         }
         if(dataManager.playerid == 1)
         {
+            
             Instantiate(character1);
         }
         else
