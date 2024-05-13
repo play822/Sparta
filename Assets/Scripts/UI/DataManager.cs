@@ -8,14 +8,14 @@ public class DataManager : MonoBehaviour
     public TMP_InputField playernameInput;
     public string playername;
     public int playerid = 1;
-    public DataManager instance = null;
+    public static DataManager instance = null;
 
 
     void Awake()
     {
         DontDestroyOnLoad(this);
 
-        if(instance != null)
+        if(instance == null)
             instance = this;
     }
 
@@ -34,5 +34,6 @@ public class DataManager : MonoBehaviour
     public void PlayerDataSave()
     {
         playername = playernameInput.text;
+
     }
 }

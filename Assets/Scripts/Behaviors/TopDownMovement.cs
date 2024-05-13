@@ -44,4 +44,4 @@ public class TopDownMovement : MonoBehaviour
     
         characterRenderer.flipX = direction.x < 0;
     }
-}
+  }

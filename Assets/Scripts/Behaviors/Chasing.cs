@@ -9,7 +9,7 @@ public class Chasing : MonoBehaviour
 {
     public Vector3 adjustCamPos;
  
-    protected GameObject Target;
+    private GameObject target;
 
     // 카메라 경계 설정
     public Vector2 minCamLimit;
@@ -20,12 +20,13 @@ public class Chasing : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Target = GameObject.FindGameObjectWithTag("Player");
+        
     }
 
     private void FixedUpdate()
     {
-        Vector3 TargetPos = new Vector3(Target.transform.position.x,Target.transform.position.y, CameraZ);
+        target = GameManager.instance.Target;
+        Vector3 TargetPos = new Vector3(target.transform.position.x, target.transform.position.y, CameraZ);
         transform.position = Vector3.Lerp(transform.position, TargetPos, Time.deltaTime *2f);
         transform.position = new Vector3(
         Mathf.Clamp(transform.position.x, minCamLimit.x, maxCamLimit.x) + adjustCamPos.x,

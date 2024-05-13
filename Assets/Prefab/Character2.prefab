@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1897961626271103900}
   - component: {fileID: 6589343056053467255}
   - component: {fileID: 5938931958173366316}
-  m_Layer: 5
+  m_Layer: 6
   m_Name: nametext
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -160,7 +160,7 @@ GameObject:
   - component: {fileID: 3387651004768919339}
   - component: {fileID: 1994512035445285510}
   - component: {fileID: 5302612499718349223}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: MainSprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -271,7 +271,7 @@ GameObject:
   - component: {fileID: 6284512016434866370}
   - component: {fileID: 934974999060527657}
   - component: {fileID: 4293090197126717761}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Character2
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -323,7 +323,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -485,7 +485,7 @@ GameObject:
   - component: {fileID: 3687107052457142775}
   - component: {fileID: 7089115635587570389}
   - component: {fileID: 3818494786119780287}
-  m_Layer: 5
+  m_Layer: 6
   m_Name: Name
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -586,7 +586,7 @@ GameObject:
   - component: {fileID: 5313419023805865156}
   - component: {fileID: 1836945727566435497}
   - component: {fileID: 4191601266878563033}
-  m_Layer: 5
+  m_Layer: 6
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}

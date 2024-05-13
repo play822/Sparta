@@ -1765,7 +1765,6 @@ MonoBehaviour:
   playernameInput: {fileID: 1127434016}
   playername: 
   playerid: 0
-  instance: {fileID: 0}
 --- !u!4 &1797843966
 Transform:
   m_ObjectHideFlags: 0
